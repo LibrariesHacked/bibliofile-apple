@@ -2,7 +2,7 @@
 //  BibliofileApp.swift
 //  Shared
 //
-//  Created by user187440 on 11/23/20.
+//  Created by Dave Rowe on 11/23/20.
 //
 
 import SwiftUI
